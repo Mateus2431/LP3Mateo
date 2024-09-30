@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Sep 30 15:08:51 2024
+
+@author: Alumno
+"""
+
+El peruano Piero Quispe anotó el gol del triunfo de Pumas ante el actual campeón del certamen, América.
+Piero Quispe convirtió un gol para darle a los Pumas UNAM una victoria por 0-1 sobre el campeón América, con lo que el equipo del jugador de la Selección Peruana escaló a la quinta posición del Torneo Apertura de la Liga MX
+
+En el cierre de la décima jornada, Quispe reflejó en el marcador la superioridad de los universitarios del entrenador argentino Gustavo Lema, ante un rival con poca capacidad de respuesta.
+
+La prensa mexicana no dudó en destacar el accionar de Piero Quispe. "Frma su mejor partido en el futbol mexicano ante América", fue el título de la nota de Récord, uno de los medios deportivos más importantes de ese país.
+
+Asimismo, resaltó sus números durante el partido. "En 82 minutos disputados consiguió una estadística de 90 por ciento de pases precisos y siete duelos ganados de 10".
+
+Y agregó que "además realizó dos quites y dos tiros, de los cuales uno fue el único tanto del Clásico Capitalino ante América, Un encuentro donde se mostró participativo al generar problemas en la defensa del conjunto azulcrema".
